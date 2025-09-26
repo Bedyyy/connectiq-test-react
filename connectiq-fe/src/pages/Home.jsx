@@ -71,6 +71,121 @@ function Home() {
         <div className="container">
           <div className="section-divider"></div>
         </div>
+        <section>
+          <div className="container">
+            <img src="/assets/Frame 600.png" alt="" />
+          </div>
+        </section>
+        <section id="our-products">
+          <div className="container">
+            <div className="categories-upper">
+              <div className="red-title">
+                <div className="red-block"></div>
+                <p>Our Products</p>
+              </div>
+              <div className="regular-title">
+                <h2>Explore Our Products</h2>
+                <div className="arrow-btn">
+                  <img src="/assets/Fill With Left Arrow.png" alt="" />
+                  <img src="/assets/Fill with Right Arrow.png" alt="" />
+                </div>
+              </div>
+            </div>
+            <div className="our-products-content">
+              <div className="our-products-card">
+                <img src="/assets/Cart(0).png" alt="" />
+                <p>Minyak Bimoli - 1 Liter</p>
+                <div className="price-rating">
+                  <h3>30.000 IDR</h3>
+                  <div className="rating">
+                    <img src="/assets/Three Star.png" alt="" />
+                    <p>(35)</p>
+                  </div>
+                </div>
+              </div>
+              <div className="our-products-card">
+                <img src="/assets/Cart(0).png" alt="" />
+                <p>Minyak Bimoli - 1 Liter</p>
+                <div className="price-rating">
+                  <h3>30.000 IDR</h3>
+                  <div className="rating">
+                    <img src="/assets/Three Star.png" alt="" />
+                    <p>(35)</p>
+                  </div>
+                </div>
+              </div>
+              <div className="our-products-card">
+                <img src="/assets/Cart(0).png" alt="" />
+                <p>Minyak Bimoli - 1 Liter</p>
+                <div className="price-rating">
+                  <h3>30.000 IDR</h3>
+                  <div className="rating">
+                    <img src="/assets/Three Star.png" alt="" />
+                    <p>(35)</p>
+                  </div>
+                </div>
+              </div>
+              <div className="our-products-card">
+                <img src="/assets/Cart(0).png" alt="" />
+                <p>Minyak Bimoli - 1 Liter</p>
+                <div className="price-rating">
+                  <h3>30.000 IDR</h3>
+                  <div className="rating">
+                    <img src="/assets/Three Star.png" alt="" />
+                    <p>(35)</p>
+                  </div>
+                </div>
+              </div>
+              <div className="our-products-card">
+                <img src="/assets/Cart(0).png" alt="" />
+                <p>Minyak Bimoli - 1 Liter</p>
+                <div className="price-rating">
+                  <h3>30.000 IDR</h3>
+                  <div className="rating">
+                    <img src="/assets/Three Star.png" alt="" />
+                    <p>(35)</p>
+                  </div>
+                </div>
+              </div>
+              <div className="our-products-card">
+                <img src="/assets/Cart(0).png" alt="" />
+                <p>Minyak Bimoli - 1 Liter</p>
+                <div className="price-rating">
+                  <h3>30.000 IDR</h3>
+                  <div className="rating">
+                    <img src="/assets/Three Star.png" alt="" />
+                    <p>(35)</p>
+                  </div>
+                </div>
+              </div>
+              <div className="our-products-card">
+                <img src="/assets/Cart(0).png" alt="" />
+                <p>Minyak Bimoli - 1 Liter</p>
+                <div className="price-rating">
+                  <h3>30.000 IDR</h3>
+                  <div className="rating">
+                    <img src="/assets/Three Star.png" alt="" />
+                    <p>(35)</p>
+                  </div>
+                </div>
+              </div>
+              <div className="our-products-card">
+                <img src="/assets/Cart(0).png" alt="" />
+                <p>Minyak Bimoli - 1 Liter</p>
+                <div className="price-rating">
+                  <h3>30.000 IDR</h3>
+                  <div className="rating">
+                    <img src="/assets/Three Star.png" alt="" />
+                    <p>(35)</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="red-btn">
+              <p>View All Products</p>
+            </div>
+          </div>
+        </section>
         <section id="benefits">
           <div className="container">
             <div className="benefits-row">
