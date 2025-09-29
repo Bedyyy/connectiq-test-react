@@ -82,6 +82,7 @@ function Home() {
               <div className="red-title">
                 <div className="red-block"></div>
                 <p>Our Products</p>
+                <p>Test</p>
               </div>
               <div className="regular-title">
                 <h2>Explore Our Products</h2>
