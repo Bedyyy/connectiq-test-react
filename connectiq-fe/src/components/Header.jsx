@@ -39,10 +39,8 @@ function Header() {
                 </li>
               </ul>
               <div className="searchbar">
-                <p>What are you looking for?</p>
-                <div className="search-icon">
-                    <i class="fa-solid fa-magnifying-glass"></i>
-                </div>
+                <input type="text" placeholder="What are you looking for?"/>
+                <button type="submit"><i className="fa-solid fa-magnifying-glass"></i></button>
               </div>
             </div>
           </div>

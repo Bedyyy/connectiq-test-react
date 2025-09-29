@@ -11,7 +11,7 @@ function Footer() {
                     <div className="input-email">
                         <p>Enter your email</p>
                         <div className="send-icon">
-                            <i class="fa-solid fa-paper-plane"></i>
+                            <i className="fa-solid fa-paper-plane"></i>
                         </div>
                     </div>
                 </div>
@@ -39,10 +39,10 @@ function Footer() {
                 <div className="fc5">
                     <h3>Connect with us</h3>
                     <div className="social-icons">
-                        <i class="fa-brands fa-facebook-f"></i>
-                        <i class="fa-brands fa-twitter"></i>
-                        <i class="fa-brands fa-instagram"></i>
-                        <i class="fa-brands fa-linkedin"></i>
+                        <i className="fa-brands fa-facebook-f"></i>
+                        <i className="fa-brands fa-twitter"></i>
+                        <i className="fa-brands fa-instagram"></i>
+                        <i className="fa-brands fa-linkedin"></i>
                     </div>
                 </div>
             </div>

@@ -22,6 +22,190 @@ function Home() {
             </div>
           </div>
         </section>
+        <section id="today">
+          <div className="container">
+            <div className="today-upper">
+              <div className="red-title">
+                <div className="red-block"></div>
+                <p>Today's</p>
+              </div>
+              <div className="regular-title">
+                <h2>Hot Sales</h2>
+                <div className="arrow-btn">
+                  <button>
+                    <i className="fa-solid fa-arrow-left"></i>
+                  </button>
+                  <button>
+                    <i className="fa-solid fa-arrow-right"></i>
+                  </button>
+                </div>
+              </div>
+            </div>
+            <div className="row">
+              <div className="card">
+                <div className="head-card">
+                  <img src="/assets/garlic.png" alt="" />
+                  <div className="head-card-content">
+                    <p>-20%</p>
+                    <div className="likewatch-btn">
+                      <button>
+                        <i className="fa-regular fa-heart"></i>
+                      </button>
+                      <button>
+                        <i className="fa-regular fa-eye"></i>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div className="body-card">
+                  <h3>Bawang Putih Cimahi - 1kg</h3>
+                  <div className="price">
+                    <span className="current-price">48.000 IDR</span>
+                    <span className="old-price">60.000 IDR</span>
+                  </div>
+                  <div className="rating">
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star-half-stroke"></i>
+                    <span>(88)</span>
+                  </div>
+                </div>
+              </div>
+              <div className="card">
+                <div className="head-card">
+                  <img src="/assets/garlic.png" alt="" />
+                  <div className="head-card-content">
+                    <p>-20%</p>
+                    <div className="likewatch-btn">
+                      <button>
+                        <i className="fa-regular fa-heart"></i>
+                      </button>
+                      <button>
+                        <i className="fa-regular fa-eye"></i>
+                      </button>
+                    </div>
+                  </div>
+                  <div className="add-to-cart-btn">
+                    <button>Add To Cart</button>
+                  </div>
+                </div>
+                <div className="body-card">
+                  <h3>Bawang Putih Cimahi - 1kg</h3>
+                  <div className="price">
+                    <span className="current-price">48.000 IDR</span>
+                    <span className="old-price">60.000 IDR</span>
+                  </div>
+                  <div className="rating">
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star-half-stroke"></i>
+                    <span>(88)</span>
+                  </div>
+                </div>
+              </div>
+              <div className="card">
+                <div className="head-card">
+                  <img src="/assets/garlic.png" alt="" />
+                  <div className="head-card-content">
+                    <p>-20%</p>
+                    <div className="likewatch-btn">
+                      <button>
+                        <i className="fa-regular fa-heart"></i>
+                      </button>
+                      <button>
+                        <i className="fa-regular fa-eye"></i>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div className="body-card">
+                  <h3>Bawang Putih Cimahi - 1kg</h3>
+                  <div className="price">
+                    <span className="current-price">48.000 IDR</span>
+                    <span className="old-price">60.000 IDR</span>
+                  </div>
+                  <div className="rating">
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star-half-stroke"></i>
+                    <span>(88)</span>
+                  </div>
+                </div>
+              </div>
+              <div className="card">
+                <div className="head-card">
+                  <img src="/assets/garlic.png" alt="" />
+                  <div className="head-card-content">
+                    <p>-20%</p>
+                    <div className="likewatch-btn">
+                      <button>
+                        <i className="fa-regular fa-heart"></i>
+                      </button>
+                      <button>
+                        <i className="fa-regular fa-eye"></i>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div className="body-card">
+                  <h3>Bawang Putih Cimahi - 1kg</h3>
+                  <div className="price">
+                    <span className="current-price">48.000 IDR</span>
+                    <span className="old-price">60.000 IDR</span>
+                  </div>
+                  <div className="rating">
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star-half-stroke"></i>
+                    <span>(88)</span>
+                  </div>
+                </div>
+              </div>
+              <div className="card">
+                <div className="head-card">
+                  <img src="/assets/garlic.png" alt="" />
+                  <div className="head-card-content">
+                    <p>-20%</p>
+                    <div className="likewatch-btn">
+                      <button>
+                        <i className="fa-regular fa-heart"></i>
+                      </button>
+                      <button>
+                        <i className="fa-regular fa-eye"></i>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div className="body-card">
+                  <h3>Bawang Putih Cimahi - 1kg</h3>
+                  <div className="price">
+                    <span className="current-price">48.000 IDR</span>
+                    <span className="old-price">60.000 IDR</span>
+                  </div>
+                  <div className="rating">
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star-half-stroke"></i>
+                    <span>(88)</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="red-btn">
+              <button>View All Products</button>
+            </div>
+          </div>
+        </section>
         <div className="container">
           <div className="section-divider"></div>
         </div>
@@ -71,9 +255,164 @@ function Home() {
         <div className="container">
           <div className="section-divider"></div>
         </div>
-        <section>
+        <section id="this-month">
           <div className="container">
-            <img src="/assets/Frame 600.png" alt="" />
+            <div className="this-month-upper">
+              <div className="red-title">
+                <div className="red-block"></div>
+                <p>This Month</p>
+              </div>
+              <div className="regular-title">
+                <h2>Best Selling Products</h2>
+                <div className="red-btn-special">
+                  <button>View All</button>
+                </div>
+              </div>
+            </div>
+            <div className="row">
+              <div className="card">
+                <div className="head-card">
+                  <img src="/assets/garlic.png" alt="" />
+                  <div className="head-card-content">
+                    <p>-20%</p>
+                    <div className="likewatch-btn">
+                      <button>
+                        <i className="fa-regular fa-heart"></i>
+                      </button>
+                      <button>
+                        <i className="fa-regular fa-eye"></i>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div className="body-card">
+                  <h3>Bawang Putih Cimahi - 1kg</h3>
+                  <div className="price">
+                    <span className="current-price">48.000 IDR</span>
+                    <span className="old-price">60.000 IDR</span>
+                  </div>
+                  <div className="rating">
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star-half-stroke"></i>
+                    <span>(88)</span>
+                  </div>
+                </div>
+              </div>
+              <div className="card">
+                <div className="head-card">
+                  <img src="/assets/garlic.png" alt="" />
+                  <div className="head-card-content">
+                    <p>-20%</p>
+                    <div className="likewatch-btn">
+                      <button>
+                        <i className="fa-regular fa-heart"></i>
+                      </button>
+                      <button>
+                        <i className="fa-regular fa-eye"></i>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div className="body-card">
+                  <h3>Bawang Putih Cimahi - 1kg</h3>
+                  <div className="price">
+                    <span className="current-price">48.000 IDR</span>
+                    <span className="old-price">60.000 IDR</span>
+                  </div>
+                  <div className="rating">
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star-half-stroke"></i>
+                    <span>(88)</span>
+                  </div>
+                </div>
+              </div>
+              <div className="card">
+                <div className="head-card">
+                  <img src="/assets/garlic.png" alt="" />
+                  <div className="head-card-content">
+                    <p>-20%</p>
+                    <div className="likewatch-btn">
+                      <button>
+                        <i className="fa-regular fa-heart"></i>
+                      </button>
+                      <button>
+                        <i className="fa-regular fa-eye"></i>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div className="body-card">
+                  <h3>Bawang Putih Cimahi - 1kg</h3>
+                  <div className="price">
+                    <span className="current-price">48.000 IDR</span>
+                    <span className="old-price">60.000 IDR</span>
+                  </div>
+                  <div className="rating">
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star-half-stroke"></i>
+                    <span>(88)</span>
+                  </div>
+                </div>
+              </div>
+              <div className="card">
+                <div className="head-card">
+                  <img src="/assets/garlic.png" alt="" />
+                  <div className="head-card-content">
+                    <p>-20%</p>
+                    <div className="likewatch-btn">
+                      <button>
+                        <i className="fa-regular fa-heart"></i>
+                      </button>
+                      <button>
+                        <i className="fa-regular fa-eye"></i>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div className="body-card">
+                  <h3>Bawang Putih Cimahi - 1kg</h3>
+                  <div className="price">
+                    <span className="current-price">48.000 IDR</span>
+                    <span className="old-price">60.000 IDR</span>
+                  </div>
+                  <div className="rating">
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star"></i>
+                    <i className="fa-solid fa-star-half-stroke"></i>
+                    <span>(88)</span>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section id="banner">
+          <div className="container">
+            <div className="banner-content">
+              <div className="banner-text">
+                <h3>Categories</h3>
+                <h2>Enhance Your<br /> Daily Experience</h2>
+                <div className="countdown">
+                  <p>23<br /> Hours</p>
+                  <p>05<br /> Days</p>
+                  <p>59<br /> Minutes</p>
+                  <p>35<br /> Seconds</p>
+                </div>
+                <button>Buy Now!</button>
+              </div>
+              <img src="/assets/tuangsusu.png" alt="" />
+            </div>
           </div>
         </section>
         <section id="our-products">
@@ -82,7 +421,6 @@ function Home() {
               <div className="red-title">
                 <div className="red-block"></div>
                 <p>Our Products</p>
-                <p>Test</p>
               </div>
               <div className="regular-title">
                 <h2>Explore Our Products</h2>
@@ -183,7 +521,7 @@ function Home() {
               </div>
             </div>
             <div className="red-btn">
-              <p>View All Products</p>
+              <button>View All Products</button>
             </div>
           </div>
         </section>
